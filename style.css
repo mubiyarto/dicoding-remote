@@ -27,8 +27,10 @@ body {
  #footer {
    width: 100%;
    height: 50px;
+   position: absolute;
+   bottom: 0;
    line-height: 50px;
-   background-color: rgb(73, 52, 25);
+   background-color: burlywood;
    text-align: center;
    color: white;
 
